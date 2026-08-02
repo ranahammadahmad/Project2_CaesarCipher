@@ -79,7 +79,7 @@ for learning the core concepts of encryption before moving to
 stronger algorithms (like AES).
 
 Author
-Ahtasham Ul Haq
+Rana Hammad Ahmad
 BS Cyber Security Student
 UET Taxila
 
